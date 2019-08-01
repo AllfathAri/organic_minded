@@ -1,7 +1,14 @@
 # organic_minded
 A complete backup of organic_minded instagram page's posts and story highlights.
 
-راهنما : سایت رو
+راهنما :
+
+دو روش برای دانلود کردن وجود دارد.
+
+----
+روش اول 
+
+سایت رو
 
 Desktop Mode
 
@@ -15,4 +22,9 @@ Download Zip
 
 کلیک کنید.
 
-لینک مدیافایر در حال آپلود شدن هست.
+----
+روش دوم
+
+استفاده از لینک مدیافایر زیر
+
+http://www.mediafire.com/file/b63zkxhwwwge0ad/organic_minded.zip/file

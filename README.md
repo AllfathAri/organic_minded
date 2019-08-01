@@ -9,6 +9,10 @@ Desktop Mode
 
 Clone or Download
 
+و سپس بر روی
+
+Download Zip
+
 کلیک کنید.
 
 لینک مدیافایر در حال آپلود شدن هست.
